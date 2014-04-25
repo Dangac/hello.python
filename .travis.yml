@@ -9,4 +9,4 @@ install:
   - "pip install nose"
 
 # command to run tests, e.g. python setup.py test
-script:  "python testing.py test"
+script:  "python testing.py test()"
