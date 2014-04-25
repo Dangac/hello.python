@@ -1,5 +1,5 @@
 import hello.py
 
-if func=="Hola mundo":
+if funcionHola=="Hola Mundo":
   return 0
 return -1
