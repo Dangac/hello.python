@@ -1,1 +1,3 @@
-print "Hola Mundo"
+def funcionHola:
+  return "Hola Mundo"
+
