@@ -1,3 +1,3 @@
-def funcionHola:
+def funcionHola():
   return "Hola Mundo"
 
