@@ -1,6 +1,6 @@
-import hello.py
+import hello
 
-test():
-  if funcionHola=="Hola Mundo":
+def test():
+  if hello.funcionHola()=="Hola Mundo":
     return 0
   return -1
