@@ -1,6 +1,6 @@
 import hello.py
 
-test:
+test():
   if funcionHola=="Hola Mundo":
     return 0
   return -1
